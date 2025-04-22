@@ -1,6 +1,7 @@
- # `Hi, I’m Petrhonez` ![descrição](fire.gif)
+ # `Hi, I’m Petrhonez` 
 
 ![pc](pc.gif)
+## `About me`
 
 YouTube chenel ->[Petrhonezzz](https://www.youtube.com/@petrhonezzz)
 
@@ -10,7 +11,9 @@ I’m focused on developing devices for image and video production, combining ha
 
 This is just an expression of my ideas and projects.
 
-## Interests
+---
+ ![i](.png)
+## `Interests`
 
 Camera technology and visual systems
 
@@ -24,7 +27,9 @@ Low-power display tech (e.g. e-ink)
 
 Color usage in design
 
-## Curiosities
+---
+![c](.png)
+## `Curiosities`
 
 How cameras interpret light and movement
 
@@ -32,7 +37,9 @@ Visual perception in machines
 
 Reuse of analog tech in modern builds
 
-## Vision
+---
+![v](.png)
+## `Vision`
 
 Build tools and devices that expand how we capture and process images
 
@@ -40,7 +47,12 @@ Apply automation and embedded tech to creative hardware
 
 Work on camera-oriented products for research, media, or industrial use
 
+---
+Thanks!
 
+![car](car-wave.gif)
+
+see you! 
 
 
 <!---
