@@ -1,5 +1,4 @@
- # `Hi, I’m Petrhonez` 
- ![descrição](petrhonez/globo.gif)
+ # `Hi, I’m Petrhonez` ![descrição](globo.gif)
 
   YouTube chenel [Petrhonezzz](https://www.youtube.com/@petrhonezzz)
 
