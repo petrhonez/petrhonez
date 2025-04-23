@@ -17,7 +17,7 @@ Motion amplification ![img](wcar.gif)
 
 Camera technology and visual systems ![img](cntrl.png)
 
-Microcontrollers and embedded systems for control and automation ![img](chip.png)
+Microcontrollers and embedded systems for control ![img](chip.png)
 
 Image sensors, old solar cells, LCDs, polarizing filters, and color usage in design ![img](colw.png)
 
