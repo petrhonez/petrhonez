@@ -9,20 +9,22 @@
 > 
 > I'm focused on developing devices for image and video production, combining hardware, code, and visual design. 
 >
-> ![img](bina.webp)![img](lght.png)![img](operw.png)
+> ![img](bina.webp)![spc](space.png)![img](lght.png)![spc](space.png)![img](operw.png)
 ---
  
 > ## ![i](pc-globe.gif) Interests
 <details>
  <summary>Aplication</summary>
  
-Motion amplification ![img](wcar.gif)
+Motion amplification 
  
-Camera technology and visual systems ![img](cntrl.png)
+Camera technology and visual systems 
  
-Microcontrollers and embedded systems for control ![img](chip.png)
+Microcontrollers and embedded systems for control 
  
-Image sensors, old solar cells, LCDs, polarizing filters, and color usage in design ![img](colw.png)
+Image sensors, old solar cells, LCDs, polarizing filters, and color usage in design 
+
+![img](wcar.gif)![spc](space.png)![img](cntrl.png)![spc](space.png)![img](chip.png)
 </details>
 
 ---
@@ -31,11 +33,13 @@ Image sensors, old solar cells, LCDs, polarizing filters, and color usage in des
 <details>
  <summary>Knowledge to seek</summary>
  
-Visual perception in machines ![img](tyw.webp)
+Visual perception in machines 
 
-Reuse of analog tech in modern builds ![img](housefw.png)
+Reuse of analog tech in modern builds 
 
-How cameras interpret light and movement ![img](wcam.png)
+How cameras interpret light and movement 
+
+![img](tyw.webp)![spc](space.png)![img](housefw.png)![spc](space.png)![img](wcam.png)
 </details>
 
 ---
@@ -45,11 +49,13 @@ How cameras interpret light and movement ![img](wcam.png)
 
   <summary> Future goals </summary>
 
-Apply automation and embedded tech to creative hardware ![img](onof.gif)
+Apply automation and embedded tech to creative hardware 
  
-Build tools and devices that expand how we capture and process images ![img](wknif.png)
+Build tools and devices that expand how we capture and process images 
  
-Projects and work on camera-oriented products for research, media, or industrial use ![img](ant.png)
+Projects and work on camera-oriented products for research, media, or industrial use 
+
+![img](onof.gif)![spc](space.png)![img](wknif.png)![spc](space.png)![img](ant.png)
 </details>
 
 ---
