@@ -42,13 +42,7 @@ Build tools and devices that expand how we capture and process images ![img](wkn
 Projects and work on camera-oriented products for research, media, or industrial use ![img](ant.png)
 
 ---
-> ### [![ex3](nww.png)](pfcandez01@gmail.com) `Contact`
+> ### [![img](nww.png)](mailto:pfcandez01@gmail.com) `Contact`
 
-pfcandez01@gmail.com
+[Contact me here](mailto:pfcandez01@gmail.com)
 
-
-
-<!---
-petrhonez/petrhonez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
