@@ -48,10 +48,11 @@ Work on camera-oriented products for research, media, or industrial use
 ---
 Thanks!
 
-![car](car-wave.gif)
+![car](wcar.gif)
 ![onof](onof.gif)
 ![ex](lght.png)
 ![ex2](cntrl.png)
+![ex3](chip.png)
 
 see you! 
 
