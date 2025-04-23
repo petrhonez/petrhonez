@@ -64,7 +64,8 @@ Projects and work on camera-oriented products for research, media, or industrial
  <details>
 
   <summary> Click to expand my projects</summary>
-   
+
+   ![img](pc_ww.gif)
    
  </details>
  
