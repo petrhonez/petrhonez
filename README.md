@@ -3,12 +3,13 @@
 
 > ## [![pc](anonw.png)](https://www.youtube.com/@petrhonezzz) About me
 >
-> I'm 21 and currently studying Control and Automation Engineering. ![img](lght.png)
+> I'm 21 and currently studying Control and Automation Engineering. 
 > 
-> I'm using GitHub just as an expression of my ideas and projects, for fun and experience. ![img](operw.png)
+> I'm using GitHub just as an expression of my ideas and projects, for fun and experience. 
 > 
-> I'm focused on developing devices for image and video production, combining hardware, code, and visual design. ![img](bina.webp)
-
+> I'm focused on developing devices for image and video production, combining hardware, code, and visual design. 
+>
+> ![img](bina.webp)![img](lght.png)![img](operw.png)
 ---
  
 > ## ![i](pc-globe.gif) Interests
