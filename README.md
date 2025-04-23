@@ -1,6 +1,6 @@
  # `Hi, I’m Petrhonez` 
 
-[![pc](pc.gif)](https://www.youtube.com/@petrhonezzz)
+[![pc](bina.webp)](https://www.youtube.com/@petrhonezzz)
 ## `About me`
 
 I'm 21 and currently studying Control and Automation Engineering. 
@@ -10,7 +10,7 @@ I’m focused on developing devices for image and video production, combining ha
 This is just an expression of my ideas and projects.
 
 ---
- ![i](bina.webp)
+ ![i](pc-globe.gif)
 ## `Interests`
 
 Camera technology and visual systems
@@ -36,7 +36,7 @@ Visual perception in machines
 Reuse of analog tech in modern builds
 
 ---
-![v](pc-globe.gif)
+![v](clk.gif)
 ## `Vision`
 
 Build tools and devices that expand how we capture and process images
