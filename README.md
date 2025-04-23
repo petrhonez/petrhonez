@@ -3,8 +3,6 @@
 [![pc](pc.gif)](https://www.youtube.com/@petrhonezzz)
 ## `About me`
 
-YouTube chenel ->[Petrhonezzz](https://www.youtube.com/@petrhonezzz)
-
 I'm 21 and currently studying Control and Automation Engineering. 
 
 I’m focused on developing devices for image and video production, combining hardware, code, and visual design.
