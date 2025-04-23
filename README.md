@@ -1,6 +1,6 @@
  # `Hi, I’m Petrhonez` 
 
-[![pc](bina.webp)](https://www.youtube.com/@petrhonezzz)
+[![pc](pc_ww.gif)](https://www.youtube.com/@petrhonezzz)
 ## `About me`
 
 I'm 21 and currently studying Control and Automation Engineering. 
@@ -49,6 +49,9 @@ Work on camera-oriented products for research, media, or industrial use
 Thanks!
 
 ![car](car-wave.gif)
+![onof](onof.gif)
+![ex](lght.png)
+![ex2](cntrl.png)
 
 see you! 
 
