@@ -24,7 +24,7 @@ Microcontrollers and embedded systems for control
  
 Image sensors, old solar cells, LCDs, polarizing filters, and color usage in design 
 
-![img](wcar.gif)![spc](space.png)![img](cntrl.png)![spc](space.png)![img](chip.png)
+![img](wcar.gif)![spc](space.png)[![img](cntrl.png)](https://github.com/petrhonez/ESP8266)![spc](space.png)[![img](chip.png)](https://github.com/petrhonez/STM32)
 </details>
 
 ---
