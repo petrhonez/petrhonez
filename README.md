@@ -1,6 +1,6 @@
  # `Hi, I’m Petrhonez` 
 
-![pc](pc.gif)
+[![pc](pc.gif)](https://www.youtube.com/@petrhonezzz)
 ## `About me`
 
 YouTube chenel ->[Petrhonezzz](https://www.youtube.com/@petrhonezzz)
@@ -12,7 +12,7 @@ I’m focused on developing devices for image and video production, combining ha
 This is just an expression of my ideas and projects.
 
 ---
- ![i](.png)
+ ![i](bina.webp)
 ## `Interests`
 
 Camera technology and visual systems
@@ -28,7 +28,7 @@ Low-power display tech (e.g. e-ink)
 Color usage in design
 
 ---
-![c](.png)
+![c](chock.webp)
 ## `Curiosities`
 
 How cameras interpret light and movement
@@ -38,7 +38,7 @@ Visual perception in machines
 Reuse of analog tech in modern builds
 
 ---
-![v](.png)
+![v](pc-globe.gif)
 ## `Vision`
 
 Build tools and devices that expand how we capture and process images
