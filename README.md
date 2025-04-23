@@ -9,7 +9,9 @@
 > 
 > I'm focused on developing devices for image and video production, combining hardware, code, and visual design. 
 >
-> ![img](bina.webp)![spc](space.png)![img](lght.png)![spc](space.png)![img](operw.png)
+> ![img](bina.webp)![spc](space.png)![img](lght.png)
+> 
+> ![img](operw.png)
 ---
  
 > ## ![i](pc-globe.gif) Interests
