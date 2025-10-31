@@ -3,7 +3,7 @@
 
 > ## [![pc](anonw.png)](https://www.youtube.com/@petrhonezzz) About me
 >
-> I'm 21 and currently studying Control and Automation Engineering. 
+> I'm 22 and currently studying Control and Automation Engineering. 
 > 
 > I'm using GitHub just as an expression of my ideas and projects, for fun and experience. 
 > 
