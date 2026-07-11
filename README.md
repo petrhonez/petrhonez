@@ -16,11 +16,11 @@
 <details>
  <summary>Aplication</summary>
  
-Ubiquitous Systems 
+`Ubiquitous Systems` 
  
-Heuristic Operations 
+`Heuristic Operations`
  
-Microcontrollers and embedded systems for control 
+`Microcontrollers and embedded systems for control`
   
 
 ![img](wcar.gif)![spc](space.png)[![img](cntrl.png)](https://github.com/petrhonez/ESP8266)![spc](space.png)[![img](chip.png)](https://github.com/petrhonez/STM32)
@@ -32,9 +32,9 @@ Microcontrollers and embedded systems for control
 <details>
  <summary>Knowledge to seek</summary>
  
-Cognitive Assistence 
+`Cognitive Assistence`
 
-Decision Suport
+`Decision Suport`
 
 ![img](tyw.webp)![spc](space.png)![img](housefw.png)![spc](space.png)![img](wcam.png)
 </details>
@@ -46,9 +46,9 @@ Decision Suport
 
   <summary> Future goals </summary>
 
-Apply automation and embedded tech to creative hardware products
+`Apply automation and embedded tech to creative hardware products`
  
-Build tools and devices that expand how we memorize 
+`Build tools and devices that expand how we memorize`
   
 
 ![img](onof.gif)![spc](space.png)![img](wknif.png)![spc](space.png)![img](ant.png)
