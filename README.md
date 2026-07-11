@@ -7,7 +7,7 @@
 > 
 > I'm using GitHub just as an expression of my ideas and projects, for fun and experience. 
 > 
-> I'm focused on developing devices for image and video production, combining hardware, code, and visual design. 
+> I'm focused on developing devices for human machine interaction, and Mnemonic Systems. 
 >
 > ![img](bina.webp)![spc](space.png)![img](lght.png)![spc](space.png)![img](operw.png)
 ---
@@ -16,13 +16,12 @@
 <details>
  <summary>Aplication</summary>
  
-Motion amplification 
+Ubiquitous Systems 
  
-Camera technology and visual systems 
+Heuristic Operations 
  
 Microcontrollers and embedded systems for control 
- 
-Image sensors, old solar cells, LCDs, polarizing filters, and color usage in design 
+  
 
 ![img](wcar.gif)![spc](space.png)[![img](cntrl.png)](https://github.com/petrhonez/ESP8266)![spc](space.png)[![img](chip.png)](https://github.com/petrhonez/STM32)
 </details>
@@ -33,11 +32,9 @@ Image sensors, old solar cells, LCDs, polarizing filters, and color usage in des
 <details>
  <summary>Knowledge to seek</summary>
  
-Visual perception in machines 
+Cognitive Assistence 
 
-Reuse of analog tech in modern builds 
-
-How cameras interpret light and movement 
+Decision Suport
 
 ![img](tyw.webp)![spc](space.png)![img](housefw.png)![spc](space.png)![img](wcam.png)
 </details>
@@ -49,11 +46,10 @@ How cameras interpret light and movement
 
   <summary> Future goals </summary>
 
-Apply automation and embedded tech to creative hardware 
+Apply automation and embedded tech to creative hardware products
  
-Build tools and devices that expand how we capture and process images 
- 
-Projects and work on camera-oriented products for research, media, or industrial use 
+Build tools and devices that expand how we memorize 
+  
 
 ![img](onof.gif)![spc](space.png)![img](wknif.png)![spc](space.png)![img](ant.png)
 </details>
